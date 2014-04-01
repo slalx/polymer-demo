@@ -1,0 +1,10 @@
+<link rel="import" href="../components/polymer/polymer.html">
+<link rel="import" href="../components/polymer-ajax/polymer-ajax.html">
+
+<polymer-element name="my-element" noscript>
+  <template>
+    <span>I'm <b>my-element</b>. This is my Shadow DOM.</span>
+    <polymer-ajax url="http://demo.zsl.com/polymer-demo/mock/res.json" auto response="{{resp}}"></polymer-ajax>
+    <textarea value="{{resp}}"></textarea>
+  </template>
+</polymer-element>

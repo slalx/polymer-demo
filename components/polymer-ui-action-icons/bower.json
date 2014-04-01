@@ -1,0 +1,8 @@
+{
+  "name": "polymer-ui-action-icons",
+  "version": "0.2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/polymer-ui-action-icons.git"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "flatiron-director",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.2.2"
+  },
+  "version": "0.2.2",
+  "gitHead": "a3ff52e8941f4a8ebea0c30d4590c1d1ee1ea1f3",
+  "contributors": [
+    {
+      "name": "Google Inc.",
+      "email": "*@google.com"
+    }
+  ],
+  "_id": "flatiron-director@0.2.2",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/flatiron-director.git"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "polymer-selection",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.2.2"
+  },
+  "version": "0.2.2",
+  "contributors": [
+    {
+      "name": "Google Inc.",
+      "email": "*@google.com"
+    }
+  ],
+  "gitHead": "3582ab227b95cd7711f33af2ef73e1890d2a59f0",
+  "_id": "polymer-selection@0.2.2",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/polymer-selection.git"
+  }
+}

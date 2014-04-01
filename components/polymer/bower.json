@@ -1,0 +1,36 @@
+{
+  "name": "polymer",
+  "description": "Polymer is a new type of library for the web, built on top of Web Components, and designed to leverage the evolving web platform on modern browsers.",
+  "homepage": "http://www.polymer-project.org/",
+  "keywords": [
+    "util",
+    "client",
+    "browser",
+    "web components",
+    "web-components"
+  ],
+  "author": {
+    "name": "Polymer Authors",
+    "email": "polymer-dev@googlegroups.com"
+  },
+  "private": true,
+  "dependencies": {
+    "platform": "Polymer/platform#0.2.2",
+    "core-component-page": "Polymer/core-component-page#0.2.2"
+  },
+  "version": "0.2.2",
+  "contributors": [
+    {
+      "name": "Google Inc.",
+      "email": "*@google.com"
+    }
+  ],
+  "gitHead": "2121c9c6e399e2ea5f4156826bcb4f75f97354e1",
+  "readme": "# Polymer\n\n[![Analytics](https://ga-beacon.appspot.com/UA-39334307-2/Polymer/polymer/README)](https://github.com/igrigorik/ga-beacon)\n\nBuild Status: [http://build.chromium.org/p/client.polymer/waterfall](http://build.chromium.org/p/client.polymer/waterfall)\n\n## Brief Overview\n\nFor more detailed info goto [http://polymer-project.org/](http://polymer-project.org/).\n\nPolymer is a new type of library for the web, designed to leverage the existing browser infrastructure to provide the encapsulation and extendability currently only available in JS libraries.\n\nPolymer is based on a set of future technologies, including [Shadow DOM](https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/shadow/index.html), [Custom Elements](https://dvcs.w3.org/hg/webcomponents/raw-file/tip/spec/custom/index.html) and Model Driven Views. Currently these technologies are implemented as polyfills or shims, but as browsers adopt these features natively, the platform code that drives Polymer evacipates, leaving only the value-adds.\n\n## Tools & Testing\n\nFor running tests or building minified files, consult the [tooling information](http://www.polymer-project.org/resources/tooling-strategy.html).\n",
+  "readmeFilename": "README.md",
+  "_id": "polymer@0.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/polymer.git"
+  }
+}

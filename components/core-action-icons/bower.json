@@ -1,0 +1,8 @@
+{
+  "name": "core-action-icons",
+  "version": "0.2.2",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/core-action-icons.git"
+  }
+}

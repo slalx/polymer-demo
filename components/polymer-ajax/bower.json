@@ -1,0 +1,22 @@
+{
+  "name": "polymer-ajax",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.2.2"
+  },
+  "version": "0.2.2",
+  "contributors": [
+    {
+      "name": "Google Inc.",
+      "email": "*@google.com"
+    }
+  ],
+  "gitHead": "77afd6ea311e3186d78ccb5878c257ffd513cd01",
+  "_id": "polymer-ajax@0.2.2",
+  "readme": "ERROR: No README.md file found!",
+  "description": "ERROR: No README.md file found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/polymer-ajax.git"
+  }
+}

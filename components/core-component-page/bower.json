@@ -1,0 +1,19 @@
+{
+  "name": "core-component-page",
+  "private": true,
+  "dependencies": {
+    "platform": "Polymer/platform#0.2.2",
+    "core-action-icons": "Polymer/core-action-icons#0.2.2",
+    "polymer-ui-action-icons": "Polymer/polymer-ui-action-icons#0.2.2"
+  },
+  "version": "0.2.2",
+  "gitHead": "094345a04199ece60c1a47046d8d1851bdecd659",
+  "readme": "core-component-page\n===================\n\nSee the [component page](http://polymer.github.io/core-component-page) for more information.\n",
+  "readmeFilename": "README.md",
+  "_id": "core-component-page@0.2.2",
+  "description": "core-component-page ===================",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/core-component-page.git"
+  }
+}

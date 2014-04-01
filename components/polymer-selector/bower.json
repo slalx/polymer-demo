@@ -1,0 +1,24 @@
+{
+  "name": "polymer-selector",
+  "private": true,
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.2.2",
+    "polymer-selection": "Polymer/polymer-selection#0.2.2"
+  },
+  "version": "0.2.2",
+  "contributors": [
+    {
+      "name": "Google Inc.",
+      "email": "*@google.com"
+    }
+  ],
+  "gitHead": "d9f58380191e4506e5b8dcfb04a365e6e2fcef8d",
+  "readme": "polymer-selector\n================\n\n[LICENSE](https://raw.github.com/Polymer/polymer/master/LICENSE)\n\n[PATENTS](https://raw.github.com/Polymer/polymer/master/PATENTS)\n\n[CONTRIBUTING](https://github.com/Polymer/polymer/blob/master/CONTRIBUTING.md)\n",
+  "readmeFilename": "README.md",
+  "_id": "polymer-selector@0.2.2",
+  "description": "polymer-selector ================",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Polymer/polymer-selector.git"
+  }
+}
